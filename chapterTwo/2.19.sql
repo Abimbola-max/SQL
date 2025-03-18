@@ -1,0 +1,1 @@
+SELECT WarehouseID FROM cape_codd.inventory;

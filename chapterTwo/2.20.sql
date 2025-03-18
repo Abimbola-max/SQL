@@ -1,0 +1,1 @@
+SELECT DISTINCT WarehouseID FROM cape_codd.inventory;
